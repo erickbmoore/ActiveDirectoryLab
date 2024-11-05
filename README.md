@@ -56,19 +56,19 @@ This project successfully established a domain controller with Active Directory,
 
 <p align="center">
 Powershell Script Create Users:  <br/>
-<img src="https://imgur.com/bufvIEo.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<img src="https://imgur.com/bufvIEo.png" height="100%" width="100%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 Users Created: <br/>
-<img src="https://imgur.com/a6k3cR9.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<img src="https://imgur.com/a6k3cR9.png" height="100%" width="100%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 Client1 Connection to Internal Network with domain account:  <br/>
-<img src="https://imgur.com/TEd5Xr1.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<img src="https://imgur.com/TEd5Xr1.png" height="100%" width="100%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 Domain Controller Connections:  <br/>
-<img src="https://imgur.com/8fNn0kZ.png" height="80%" width="80%" alt="Active Directory Home Lab"/>
+<img src="https://imgur.com/8fNn0kZ.png" height="100%" width="100%" alt="Active Directory Home Lab"/>
 <br />
 <br />
 
